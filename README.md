@@ -10,4 +10,5 @@ I have the Pyramid.java which is just a normal Java file that you can compile in
 I'm including all of it so that you can see my process and how I intended to do all of this.  I'm sorry if this isn't what you asked for, but I'm assuming that since I don't have a public server that anyone can access, the Java files or the intended algorithim is what was expected.  Thank you for your understanding, and I appreciate your time.  If you need to contact me, please email rennickecharlie@gmail.com.
 
 Sincerely,
+
 Charlie Rennicke
