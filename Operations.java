@@ -36,7 +36,7 @@ public class Operations {
 	    
 	    char[] chars = word.toCharArray();
 	    
-	    //checks to see if the input if too large
+	    //checks to see if the input if too large or null
 	    if(chars.length > 1000 || chars.length == 0) {
 	    	return("Error: input is too large");
 	    }
