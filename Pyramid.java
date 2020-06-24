@@ -85,5 +85,4 @@ public class Pyramid {
 	    System.out.println(word + " is a pyramid");
 	}
 	
-    
 }
